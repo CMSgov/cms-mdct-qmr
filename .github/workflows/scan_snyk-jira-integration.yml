@@ -51,7 +51,7 @@ jobs:
           jira-host: "jiraent.cms.gov"
           jira-project-key: "CMDCT"
           jira-issue-type: "Task"
-          #jira-custom-field-key-value: '{ "customfield_10007" : "MDCT-2280", "customfield_14154" : [{"id": "16957", "value": "QMR"}]  }'
+          #jira-custom-field-key-value: '{ "customfield_10007" : "MDCT-2280", "customfield_14154" : [{"id": "16957", "value": "QMR"}] }'
           jira-labels: "QMR,snyk"
           jira-title-prefix: "[QMR] - Snyk :"
           is_jira_enterprise: true
